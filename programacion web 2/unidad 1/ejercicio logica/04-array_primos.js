@@ -3,9 +3,9 @@ let primos = new Array();
 for (let i=0; i<numero.length; i++)
 {
     let repeticiones = 0;
-    for (let j=0; j<numero.length; j++)
+    for (let j=0; j<=numero[i]; j++)
     {
-         if (numero[i]%numero[j]==0)
+         if (numero[i]%j==0)
          {
              repeticiones++;
          }
