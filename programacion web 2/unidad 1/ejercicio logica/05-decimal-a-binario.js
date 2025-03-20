@@ -8,8 +8,6 @@ convertirBinario = decimal =>
         }
     }
 
-const decimal = 128;
+let decimal = 128;
 let binario = convertirBinario(decimal);
 console.log("El numero "+decimal+" en binario es: "+binario);
-
-
