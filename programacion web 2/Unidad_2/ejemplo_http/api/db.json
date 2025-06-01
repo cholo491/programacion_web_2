@@ -11,6 +11,18 @@
       "titulo": "Nuevo Post Creado",
       "descripcion": "CONTENIDO",
       "fecha": "2025-03-27"
+    },
+    {
+      "id": "81d5",
+      "titulo": "Nuevo Post",
+      "descripcion": "nueva descripcion",
+      "fecha": "2025-04-17T13:11:17.088Z"
+    },
+    {
+      "id": "4a4e",
+      "titulo": "Nuevo Post",
+      "descripcion": "nueva descripcion",
+      "fecha": "2025-04-17T13:11:19.702Z"
     }
   ]
 }
